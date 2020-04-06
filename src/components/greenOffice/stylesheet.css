@@ -1,0 +1,105 @@
+header {
+    /*border: 2px solid blue; */
+    background-color: #b8cb21;
+    margin: 8%;
+    padding: 4%;
+    margin-top: auto;
+}
+
+body {
+    background-image: url(../img/fond.png);
+
+}
+
+main {
+    background-color: whitesmoke;
+    border: 2px solid #5555;
+    margin: 8%;
+    margin-bottom: 31px;
+    margin-top: -89px;
+}
+
+header img {
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    /*border:2px dashed red;*/
+    margin: 10px;
+    background-color: greenyellow;
+}
+
+header nav {
+    display: inline-block;
+    margin-right: 10px;
+    margin: 10px;
+    float: right;
+    padding: 19px 0;
+
+}
+
+.de {
+    /*border:2px solid green;*/
+    float: right;
+    background-color: greenyellow;
+    padding: 5px 0 0 16px;
+}
+
+.do {
+    /*border:2px solid green;*/
+    float: right;
+    background-color: greenyellow;
+    padding: 5px 0 0 16px;
+}
+
+.ja {
+    float: left;
+    height: 50px;
+    width: 100px;
+    margin-top: 4px;
+    margin: 10px;
+}
+
+.hi {
+    float: left;
+    height: 50px;
+    width: 100px;
+}
+
+.ji {
+    float: left;
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    margin-top: 4px;
+}
+
+.jo {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    margin-left: -387px;
+    
+}
+
+span {
+    color: #b8cb24;
+}
+
+a {
+    margin: 18px;
+}
+
+botton {
+    margin-left: 686px;
+    background-color: #b8cb21;
+    background-color: #b8cb21;
+    margin-top: 15px;
+    float: inline-start;
+    padding: 5px;
+}
+small{
+    text-align: center;
+}
+p{
+    margin-left: 10px;
+}

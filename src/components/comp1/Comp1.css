@@ -1,0 +1,20 @@
+.testDIV{
+    border: 2px solid red;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+     
+}
+div{
+    display:flex;
+	flex-direction: row;
+	justify-content:space-between;
+}
+.btn{
+background-color: #f14848;
+height: 30px;
+border: 2px solid brown;
+border-radius: 2%;
+
+}

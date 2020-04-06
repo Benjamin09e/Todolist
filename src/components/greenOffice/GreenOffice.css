@@ -1,0 +1,27 @@
+.testDIV{
+    border: 2px solid red;
+    text-align: justify;   
+    margin: 5px;
+    padding: 5px;
+    
+     
+}
+h4{
+    color:#B8CB21;
+}
+img{
+    display: block;
+	float: left;
+	width: 250px;	
+	height: 100px;
+	margin-right: 10px; 
+}
+.btn{
+background-color: #B8CB21;
+height: 30px;
+border: 2px solid green;
+border-radius: 2%;
+color: white;
+float: right;
+
+}
