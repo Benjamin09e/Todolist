@@ -6,8 +6,8 @@ import ElectroMenager from './views/Electro/Electro';
 import Office from './views/office/Office';
 import Form from './components/form/Form';
 import liste from './components/liste/Liste';
-
-
+import login from './components/login/Login';
+//import create form './components/Create';
 class Routes extends Component {
 
     render() {
@@ -15,12 +15,17 @@ class Routes extends Component {
         return (
             <BrowserRouter>
                 <Switch >
+                  
+                    <Route
+                        path="/Login"
+                        component={login}
+                        exact
+                    />
                     <Route
                         path="/Form"
                         component={Form}
                         exact
                     />
-
                     <Route
                         path="/Liste"
                         component={liste}

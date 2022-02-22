@@ -26,6 +26,7 @@ class App extends Component{
      <p style={{color:this.state.mycolor}}> {this.state.Ptext}</p>
      <span>{this.state.SPANtext}</span>
      <p>{MyVar.mytext.textHello}</p>
+    <span>todoliste</span>
    </div>
   );
 }

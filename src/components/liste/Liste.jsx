@@ -8,7 +8,6 @@ class Liste extends Component {
         return (
 
             <header>
-
                 <div id="myDIV" className="header">
                     <h2 style={{ margin: 5 + 'px' }}>My To Do List</h2>
                     <form>
